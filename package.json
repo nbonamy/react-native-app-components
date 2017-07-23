@@ -1,5 +1,5 @@
 {
-  "name": "react-native-components",
+  "name": "react-native-app-components",
   "version": "0.1.0",
   "description": "Library of Basic React Native Components",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbonamy/react-native-components.git"
+    "url": "git+https://github.com/nbonamy/react-native-app-components.git"
   },
   "keywords": [
     "react",
@@ -20,17 +20,15 @@
   "author": "Nicolas Bonamy",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nbonamy/react-native-components/issues"
+    "url": "https://github.com/nbonamy/react-native-app-components/issues"
   },
-  "homepage": "https://github.com/nbonamy/react-native-components#readme",
-  "dependencies": {
+  "homepage": "https://github.com/nbonamy/react-native-app-components#readme",
+  "peerDependencies": {
     "lodash": "^4.17.4",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.46.4",
     "react-native-maps": "^0.15.3",
     "react-native-vector-icons": "^4.2.0",
     "supercluster": "^2.3.0"
-  },
-  "devDependencies": {
-    "react": "16.0.0-alpha.12",
-    "react-native": "0.46.4"
   }
 }
