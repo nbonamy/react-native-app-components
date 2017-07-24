@@ -1,4 +1,4 @@
 # react-native-components
 Library of Basic React Native Components
 
-![Demo](demo.png?raw=true)
+<img src="demo.png?raw=true" width="300" />
