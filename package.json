@@ -29,9 +29,10 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "supercluster": "^2.3.0",
+    "prop-types": "^15.5.10",
     "react-native-maps": "^0.15.0",
-    "react-native-vector-icons": "^4.2.0"
+    "react-native-vector-icons": "^4.2.0",
+    "supercluster": "^2.3.0"
   },
   "devDependencies": {
     "react": "16.0.0-alpha.12",
